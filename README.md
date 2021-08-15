@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anton Novikov
-- 👀 I’m interested in ... JS
+- 👀 I’m interested in ... Html, Css, JS, English , SQL.
 - 🌱 I’m currently learning ...JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
