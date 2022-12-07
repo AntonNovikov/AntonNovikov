@@ -6,7 +6,7 @@
 
 
 mail: NewTonyMail1988@gmail.com
-[![Telegram](https://img.shields.io/badge/@ChristinaKr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tonynew8)
+[![Telegram](https://img.shields.io/badge/@tonynew8-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tonynew8)
 
 <!---
 AntonNovikov/AntonNovikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
