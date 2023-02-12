@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">My stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AntonNovikov&show_icons=true&locale=en&theme=radical" alt="rgvder" /></p>
 
+ISBN 9798-5-17-982809-9 20230211-20230212
